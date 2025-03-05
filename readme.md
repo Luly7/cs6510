@@ -68,3 +68,9 @@ The program will continue to run until the user runs the command `exit`. This wi
 # Run tests
 
 Run the file tests\run_tests.py. This will run multiple tests to ensure everything is working as expected. It includes unit tests as well as end to end tests.
+
+
+
+# Class Diagrams
+
+![Class diagram](https://github.com/Luly7/new-repo/blob/main/directions/M3_class_diagram.drawio.png)
